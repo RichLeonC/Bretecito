@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  color: #333; ;
+  background: #b4dfe5;
+  padding: 2rem;
+}
+
+/* Primario: adbbda
+secundario: f76c6c 
+terciario: 303c6c
+*/
+
+
+
